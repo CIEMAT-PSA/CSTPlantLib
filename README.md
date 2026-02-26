@@ -30,7 +30,7 @@ A public release is planned in the future.
 If you use CSTPlantLib in academic work, please cite:
 
 ```
-CIEMAT-PSA, CSTPlantLib — Concentrating Solar Thermal Plant Library, Github Repository, 2026. https://github.com/CIEMAT-PSA/CSTPlantLib
+CIEMAT-PSA, CSTPlantLib — Concentrating Solar Thermal Plant Library, GitHub Repository, 2026. https://github.com/CIEMAT-PSA/CSTPlantLib
 ```
 
 (A formal DOI release is planned.)
