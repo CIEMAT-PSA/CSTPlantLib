@@ -4,9 +4,9 @@
 
 # Concentrating Solar Thermal Plant Library
 
-CSTPlantLib is a Python framework developed at the _Concentrating Solar Thermal Technologies Unit_ of _CIEMAT-PSA_ for modular simulation of concentrating solar thermal power plants, solar heat applications for industrial processes and hybrid solar-thermal energy systems.
+CSTPlantLib is a Python framework developed at the _Concentrating Solar Thermal Technologies Unit_ of _CIEMAT-PSA_ for modular simulation of concentrating solar thermal power plants, solar heat applications for industrial processes, and hybrid solar-thermal energy systems.
 
-This library is designed for research, engineering studies, and industrial applications requiring flexible quasi-dynamic simulation of solar thermal plants and their subsystems.
+This library is intended for research, engineering studies, and industrial applications requiring flexible quasi-dynamic simulation of solar thermal power plants and their subsystems.
 
 ## Key Features
 
